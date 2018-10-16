@@ -2,4 +2,4 @@
 TestMvvmCross first app
 
 
-This project is a test for MVVMCross first project blank with all configuration.
+This project is a test for MVVMCross first project blank with all configuration. Xamarin Classic
