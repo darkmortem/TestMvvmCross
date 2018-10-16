@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "MvvmCross": "5.7.0",
+    "MvvmCross.Binding": "5.7.0",
+    "MvvmCross.Core": "5.7.0",
+    "MvvmCross.Platform": "5.7.0",
+    "MvvmCross.StarterPack": "5.7.0"
+  },
+  "frameworks": {
+    ".NETPortable,Version=v4.5,Profile=Profile111": {}
+  }
+}
